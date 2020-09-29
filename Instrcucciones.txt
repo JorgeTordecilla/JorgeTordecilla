@@ -1,8 +1,8 @@
-Presentado por Jorge Ivan Tordecilla Ruiz
+Presentado por Jorge Iván Tordecilla Ruíz
 
-
-Archivo principal Solid.cpp, mostran el uso de los principicios SOLID 
-con una aplicación sencillla que realiza las operaciones basicas en c++. 
-Archivo sinsolid.cpp archivo sin usar los principios.
+Archivo principal Solid.cpp, muestra el uso de los principios SOLID 
+con una aplicación sencilla que realiza las operaciones básicas en C++. 
+Archivo Sinsolid.cpp archivo sin usar los principios.
 
 Ibero
+
