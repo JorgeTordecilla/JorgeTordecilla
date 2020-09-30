@@ -1,7 +1,7 @@
-// Solid.cpp, programa principal que muestra la implementacion de los principios solid
+// Solid.cpp, programa principal que muestra la implementación de los principios SOLID
 
 /*
-Programa que realzia las operaciones matematicas basicas con dos numeros ingresados por el usuario
+Programa que realiza las operaciones matemáticas básicas con dos números ingresados por el usuario
 */
 
 //Dependencias
@@ -15,17 +15,17 @@ using namespace std;
 
 int main()
 {
-  //creacion de objeto de la clase GetNumber y aceder al metodo para guardar los datos esta clase se puede modificar sin afectar las demas
+  //Creación de objeto de la clase GetNumber y acceder al método para guardar los datos esta clase se puede modificar sin afectar las demás.
   GetNumber UserNumber;
   UserNumber.Numbers();
 
-  //Creacion de los objetos de las clases que realizan las operaciones
+  //Creación de los objetos de las clases que realizan las operaciones
   Sum add;
   Subtraction Subtrac;
   Multiplication Multip;
   Division Divi;
 
-  //Saldia por pantalla de cada una de las operaciones
+  //Salida por pantalla de cada una de las operaciones
   cout << "Total Sum "<<add.DoOperation(UserNumber.Number1,UserNumber.Number2)<< endl;
   cout << "Total Subtraction  "<<Subtrac.DoOperation(UserNumber.Number1,UserNumber.Number2)<< endl;
   cout << "Total Multiplication "<<Multip.DoOperation(UserNumber.Number1,UserNumber.Number2)<< endl;

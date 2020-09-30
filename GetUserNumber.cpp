@@ -1,9 +1,9 @@
-//Clase para obtener los numeros del usuario
+//Clase para obtener los números del usuario
 class GetNumber{
 public:
   float Number1, Number2;
 
-  //Funcion para obtener dos numeros
+  //Función para obtener dos números
   void Numbers()
   {
     cout<<"Number 1: ";
