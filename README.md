@@ -9,7 +9,7 @@
 
 - ✉️ Say Hello **jtordeci@ibero.edu.co**
 
-- 📑 Know more [Resume](https://drive.google.com/file/d/1Mi2od3SkbWNPG5JEssiQ1N5c7GqZiX0Z/view?usp=sharing)
+- 📑 Know more... [Resume](https://drive.google.com/file/d/1Mi2od3SkbWNPG5JEssiQ1N5c7GqZiX0Z/view?usp=sharing)
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
