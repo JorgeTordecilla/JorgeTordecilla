@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I’m Jorge Iván Tordecilla</h1>
+<h1 align="center">Hi 👋, I'm Jorge Iván Tordecilla</h1>
 <h3 align="center">A software engineering student from colombia, passionate for the coding world!!!👨‍💻</h3>
 
 <h4>About me: </h4>
 
-- 📖 I’m currently a student and working on personal projects **Soft Engineering - MisionTic2022**
+- 📖 I'm currently studying and working on personal projects **Soft Engineering - MisionTic2022**
 
-- 🚀 I’m currently learning **MongoDB, Express, React, NodeJs**
+- 🚀 I'm currently learning **MongoDB, Express, React, NodeJs**
 
 - ✉️ Say Hello **jtordeci@ibero.edu.co**
 
