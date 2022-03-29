@@ -3,9 +3,9 @@
 
 <h4>About me: </h4>
 
-- 📖 I'm currently studying and working on personal projects **Soft Engineering - MisionTic2022**
+- 📖 I'm currently studying and working on personal projects **Soft Engineering**
 
-- 🚀 I'm currently learning **MongoDB, Express, React, NodeJs**
+- 🚀 I'm currently learning **MongoDB, Express, React, NodeJs,NestJs**
 
 - ✉️ Say Hello **jtordeci@ibero.edu.co**
 
