@@ -33,7 +33,7 @@
 
 **Highlights:**
 - 🧩 27 cubies con rotación por capas sincronizada al scroll
-- 🎮 Easter egg: escribe `jorge` → los cubitos explotan y se rearman con spring physics
+- 🎮 Easter egg: los cubitos explotan y se rearman con spring physics
 - 💫 Custom cursor, magnetic buttons, gradient mesh animado, section nav lateral
 - ☑️ 100% responsivo · dark mode · focus-visible · `prefers-reduced-motion`
 
