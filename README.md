@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software Engineer · Medellín, Colombia 🇨🇴</strong><br/>
   Automation Developer @ <strong>Juju</strong> — IA · Chatbots · Low Code<br/>
-  5+ años construyendo sistemas que eliminan trabajo repetitivo.
+  4+ años construyendo sistemas que eliminan trabajo repetitivo.
 </p>
 
 <p align="center">
